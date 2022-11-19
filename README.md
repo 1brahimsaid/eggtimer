@@ -2,7 +2,7 @@
 
 # 1 – Introduction
 
-Timing is key to boil eggs just how you like them. This system implemented on a FPGA can set timer to alert you when your eggs are ready. The design has pre-set timers for soft, medium, or hard-boiled eggs. Any timer can be set with the push buttons for other timed tasks. 
+Timing is key to boil eggs just how you like them. This designed implemented on a FPGA can set a timer to alert you when your eggs are ready. The design has pre-set timers for soft, medium, or hard-boiled eggs. Any time can be set with the push buttons for other timed tasks. Simple logic implementation using FPGA.
 
 # 2- Diagrams
 
